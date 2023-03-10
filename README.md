@@ -1,3 +1,3 @@
 # ticTacToe
 
-Link to the app:- https://brilliant-squirrel-3a201a.netlify.app/
+Link to the app:- tic-tac-toe-reactjs-app-utkarsh.netlify.app
